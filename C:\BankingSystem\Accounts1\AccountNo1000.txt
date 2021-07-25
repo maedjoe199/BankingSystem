@@ -1,7 +1,0 @@
-2
-1000
-FixedDeposit Account
-
-			Balance			Interest
-Deposit		4.00
-25/07/2021-10:33:05	4.00			0.00
