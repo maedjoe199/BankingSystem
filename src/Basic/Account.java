@@ -1,4 +1,4 @@
-package banking_system;
+package Basic;
 /**
  * unit of all time is 10 seconds
  */

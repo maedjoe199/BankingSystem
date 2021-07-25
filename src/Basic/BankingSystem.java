@@ -1,4 +1,4 @@
-package banking_system;
+package Basic;
 
 import java.io.File;
 import java.util.Scanner;
@@ -23,6 +23,7 @@ public class BankingSystem {
 		int a = in.nextInt();
 		in.nextLine();
 		if (a<1 || a>range) {
+			System.out.println("Please enter a valid input");
 			return getChoice(in, range);
 		} else {
 			return a;
